@@ -28,6 +28,7 @@ struct person
 
 typedef struct person person;
 
+void start();
 void add_contact();
 void list_record();
 void print_menu();
